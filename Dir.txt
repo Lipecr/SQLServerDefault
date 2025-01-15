@@ -1,0 +1,19 @@
+.
+├── app/
+│   ├── routers/
+│   │   └── routers_.py
+│   ├── controllers/
+│   │   └── controller_.py
+│   ├── db/
+│   │   └── connection.py
+│   ├── schemas/
+│   │   └── schema_.py
+│   ├── utils/
+│   │   └── utils.py
+│   ├── config/
+│   │   ├── config_db.py
+│   │   └── config_fields.py
+│   └── __init__.py
+├── main.py
+├── requirements.txt
+└── .env
